@@ -4,10 +4,10 @@ The repositorie next containt the project of Monty lenguage
 
 ## The files:
 
-* monty.h
+### monty.h
 
 Cointain the strcuts and the prototype used in the projects.
 
-* atoi.c
+### atoi.c
 
 Convert the string in number integer.
